@@ -20,13 +20,11 @@
 ### Hi there ,I'm Kumari Neha 👋
 
 Enthusiast about machine learning, computer vision.
-Worked with Tableau and Docker.
 Familiar with neural networks.
 Passionate about implementing and launching new ideas.
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Computer Vision
 - 🌱 I’m currently learning Transfer learning.
